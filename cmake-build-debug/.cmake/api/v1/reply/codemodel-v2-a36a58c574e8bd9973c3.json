@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2cddaa49d024e14036c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "deps/libjuice",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-deps.libjuice-Debug-ccff3ad5bcc8d3a8ac00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "deps/libjuice",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "violet",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "libjuice",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "juice::@254282e62f09b98453fb",
+					"jsonFile" : "target-juice-Debug-8de01c113a4b6872dbd1.json",
+					"name" : "juice",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "juice-static::@254282e62f09b98453fb",
+					"jsonFile" : "target-juice-static-Debug-77546a3b43328f7489d0.json",
+					"name" : "juice-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "violet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-violet-Debug-b8443ac538b617566b78.json",
+					"name" : "violet",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/CLionProjects/violet/cmake-build-debug",
+		"source" : "C:/Users/Admin/CLionProjects/violet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,16 @@
+[Unit]
+Description=zturn lightweight STUN/TURN server
+After=network-online.target
+
+[Service]
+Type=simple
+User=zturn
+Group=zturn
+UMask=002
+ExecStart=/usr/bin/zturn -f /etc/zturn/zturn.conf
+Restart=on-failure
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target
+

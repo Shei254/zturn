@@ -1,0 +1,15 @@
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/violet.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/juice.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/juice-static.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/list_install_components.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/install.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/install/local.dir
+C:/Users/Admin/CLionProjects/violet/cmake-build-debug/deps/libjuice/CMakeFiles/install/strip.dir
